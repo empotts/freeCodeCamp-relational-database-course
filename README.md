@@ -9,7 +9,7 @@
 1. Clone the RDB Alpha repo with `git clone https://github.com/freeCodeCamp/rdb-alpha`
 1. Open a terminal, navigate to the `rdb-alpha` directory, and open VSCode with `code .`
 1. Press Ctrl / Cmd + Shift + P and enter `Dev Containers: Rebuild Container and Reopen in Container`
-1. A new VS Code window will open and begin building the Docker image. It will take several minutes to build the first time.
+1. A new VS Code window will open and begin building the Docker imag. It will take several minutes to build the first time.
 1. Once the image is finished building, press Ctrl / Cmd + Shift + P and enter `CodeRoad: Start` to open CodeRoad
 1. In the CodeRoad window, click "Start New Tutorial"
 1. Enter the URL to the `tutorial.json` file of the project you want to start (ex: https://raw.githubusercontent.com/freeCodeCamp/learn-bash-by-building-a-boilerplate/main/tutorial.json)
